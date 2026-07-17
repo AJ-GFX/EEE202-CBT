@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which of the following materials is strongly attracted by a magnetic field?",
+    "options": [
+      "Copper",
+      "Aluminium",
+      "Iron",
+      "Glass"
+    ],
+    "answer": "Iron",
+    "explanation": "Iron is a ferromagnetic material and is strongly attracted to magnetic fields."
+  },
+  {
+    "question": "The SI unit of magnetic flux density is?",
+    "options": [
+      "Weber",
+      "Tesla",
+      "Henry",
+      "Ampere"
+    ],
+    "answer": "Tesla",
+    "explanation": "Magnetic flux density is measured in Tesla (T)."
+  },
+  {
+    "question": "Which law describes the force between two current-carrying conductors?",
+    "options": [
+      "Faraday's law",
+      "Lenz's law",
+      "Ampere's law",
+      "Ohm's law"
+    ],
+    "answer": "Ampere's law",
+    "explanation": "Ampere's law relates magnetic fields to electric currents."
+  },
+  {
+    "question": "Who first reported the existence of electromagnetism in 1820 by observing the deflection of a magnetic compass near a current-carrying conductor?",
+    "options": [
+      "Michael Faraday",
+      "Hans Christian Oersted",
+      "James Clerk Maxwell",
+      "Joseph Henry"
+    ],
+    "answer": "Hans Christian Oersted",
+    "explanation": "Oersted discovered that an electric current produces a magnetic field capable of deflecting a compass needle."
+    },
+    {
+    "question": "The SI unit of reluctance is:",
+    "options": [
+      "Henry (H)",
+      "Tesla (T)",
+      "Ampere per Weber (A/Wb)",
+      "Weber (Wb)"
+    ],
+    "answer": "Ampere per Weber (A/Wb)",
+    "explanation": "Reluctance is measured in ampere per weber (A/Wb)."
+  },
+  {
+    "question": "According to the reluctance equation, increasing the length of a magnetic circuit while keeping all other parameters constant will:",
+    "options": [
+      "Decrease reluctance",
+      "Increase reluctance",
+      "Have no effect on reluctance",
+      "Reduce permeability"
+    ],
+    "answer": "Increase reluctance",
+    "explanation": "Reluctance is directly proportional to the length of the magnetic path."
+  },
+  {
+    "question": "A magnetic circuit has a magnetomotive force of 300 A-turns and a magnetic flux of 0.015 Wb. Calculate its reluctance.",
+    "options": [
+      "20,000 A/Wb",
+      "2,000 A/Wb",
+      "4,500 A/Wb",
+      "5,000 A/Wb"
+    ],
+    "answer": "20,000 A/Wb",
+    "explanation": "Reluctance S = F/Φ = 300/0.015 = 20,000 A/Wb."
+  },
+  {
+    "question": "A transformer is primarily used to:",
+    "options": [
+      "Store electrical energy",
+      "Transfer electrical energy between circuits by electromagnetic induction",
+      "Convert AC to DC",
+      "Generate electrical energy"
+    ],
+    "answer": "Transfer electrical energy between circuits by electromagnetic induction",
+    "explanation": "A transformer transfers electrical energy between circuits through electromagnetic induction."
+  },
+  {
+    "question": "According to the lecture note, a transformer can be used to:",
+    "options": [
+      "Increase resistance permanently",
+      "Insulate one circuit from another while allowing energy transfer",
+      "Convert DC directly to AC",
+      "Store magnetic flux indefinitely"
+    ],
+    "answer": "Insulate one circuit from another while allowing energy transfer",
+    "explanation": "One important application of a transformer is electrical isolation while still transferring energy."
+  },
+  {
+    "question": "The voltage ratio of an ideal transformer is given by:",
+    "options": [
+      "V₁/V₂ = N₁/N₂",
+      "V₁/V₂ = N₂/N₁",
+      "V₁V₂ = N₁N₂",
+      "V₁ + V₂ = N₁ + N₂"
+    ],
+    "answer": "V₁/V₂ = N₁/N₂",
+    "explanation": "The voltage ratio of an ideal transformer equals the turns ratio."
+  },
+  {
+    "question": "A transformer has 500 turns on the primary winding and 100 turns on the secondary winding. If the primary voltage is 240 V, determine the secondary voltage.",
+    "options": [
+      "24 V",
+      "48 V",
+      "120 V",
+      "1200 V"
+    ],
+    "answer": "48 V",
+    "explanation": "V₂ = V₁ × (N₂/N₁) = 240 × (100/500) = 48 V."
+  },
+  {
+    "question": "An ideal transformer has 400 primary turns, 100 secondary turns, and a secondary current of 8 A. Determine the primary current.",
+    "options": [
+      "2 A",
+      "8 A",
+      "16 A",
+      "32 A"
+    ],
+    "answer": "2 A",
+    "explanation": "Using I₁/I₂ = N₂/N₁, I₁ = 8 × (100/400) = 2 A."
+  }
+]

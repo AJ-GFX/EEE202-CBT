@@ -1,0 +1,330 @@
+[
+  {
+    "question": "Using the voltage divider rule, if V = 24 V, R₁ = 4 Ω and R₂ = 8 Ω, what is the voltage across R₂?",
+    "options": [
+      "16 V",
+      "8 V",
+      "12 V",
+      "24 V"
+    ],
+    "answer": "16 V",
+    "explanation": "V₂ = (R₂/(R₁ + R₂)) × V = (8/12) × 24 = 16 V."
+  },
+  {
+    "question": "Using the voltage divider rule, if V = 30 V, R₁ = 5 Ω and R₂ = 10 Ω, determine the voltage across R₂.",
+    "options": [
+      "10 V",
+      "15 V",
+      "20 V",
+      "30 V"
+    ],
+    "answer": "20 V",
+    "explanation": "V₂ = (10/15) × 30 = 20 V."
+  },
+  {
+    "question": "According to Kirchhoff's Current Law, if 8 A and 6 A enter a node while 5 A leaves, the remaining outgoing current is:",
+    "options": [
+      "9 A",
+      "14 A",
+      "11 A",
+      "3 A"
+    ],
+    "answer": "9 A",
+    "explanation": "8 + 6 = 5 + I."
+  },
+  {
+    "question": "According to Kirchhoff's Current Law, if 15 A enters a node while 6 A and 4 A leave, the third outgoing current is:",
+    "options": [
+      "5 A",
+      "9 A",
+      "11 A",
+      "15 A"
+    ],
+    "answer": "5 A",
+    "explanation": "15 = 6 + 4 + I."
+  },
+  {
+    "question": "According to Kirchhoff's Voltage Law, the algebraic sum of voltages around any closed loop is:",
+    "options": [
+      "Zero",
+      "Equal to the source voltage",
+      "Equal to the largest voltage drop",
+      "Infinite"
+    ],
+    "answer": "Zero",
+    "explanation": "This is the statement of Kirchhoff's Voltage Law."
+  },
+  {
+    "question": "If R₁ = 2 Ω and R₃ = 6 Ω, what is the coefficient of I₁ in the first loop-current equation?",
+    "options": [
+      "8 Ω",
+      "6 Ω",
+      "4 Ω",
+      "2 Ω"
+    ],
+    "answer": "8 Ω",
+    "explanation": "Coefficient = R₁ + R₃."
+  },
+  {
+    "question": "In the loop-current equations from the notes, the coefficient multiplying I₂ in the first equation is:",
+    "options": [
+      "R₃",
+      "R₁",
+      "R₂",
+      "R₁ + R₂"
+    ],
+    "answer": "R₃",
+    "explanation": "R₃ is common to both loops."
+  },
+  {
+    "question": "If Va = 18 V, Vb = 6 V and R₁ = 4 Ω, what is i₁?",
+    "options": [
+      "3 A",
+      "4.5 A",
+      "6 A",
+      "2 A"
+    ],
+    "answer": "3 A",
+    "explanation": "i₁ = (Va − Vb)/R₁ = 12/4."
+  },
+  {
+    "question": "If Vc = 20 V, Vb = 8 V and R₂ = 4 Ω, determine i₂.",
+    "options": [
+      "2 A",
+      "3 A",
+      "4 A",
+      "5 A"
+    ],
+    "answer": "3 A",
+    "explanation": "i₂ = (Vc − Vb)/R₂ = 12/4."
+  },
+  {
+    "question": "If Vb = 15 V and R₃ = 5 Ω, what is i₃?",
+    "options": [
+      "2 A",
+      "3 A",
+      "5 A",
+      "15 A"
+    ],
+    "answer": "3 A",
+    "explanation": "i₃ = Vb/R₃."
+  },
+  {
+    "question": "If I₃ = 3 + j0 A flows through an 8 Ω resistor, what is V₂?",
+    "options": [
+      "24 + j0 V",
+      "8 + j0 V",
+      "3 + j8 V",
+      "11 + j0 V"
+    ],
+    "answer": "24 + j0 V",
+    "explanation": "V = IR."
+  },
+  {
+    "question": "If V₂ = 24 + j0 V and Xc = -j16 Ω, determine I₂.",
+    "options": [
+      "j1.5 A",
+      "-j1.5 A",
+      "1.5 A",
+      "3 A"
+    ],
+    "answer": "j1.5 A",
+    "explanation": "I₂ = V₂/Xc."
+  },
+  {
+    "question": "If I₂ = j1.5 A and I₃ = 3 + j0 A, determine I₁.",
+    "options": [
+      "3 + j1.5 A",
+      "3 - j1.5 A",
+      "1.5 + j3 A",
+      "4.5 + j0 A"
+    ],
+    "answer": "3 + j1.5 A",
+    "explanation": "I₁ = I₂ + I₃."
+  },
+  {
+    "question": "The magnitude of the phasor 3 + j1.5 A is approximately:",
+    "options": [
+      "3.36 A",
+      "1.50 A",
+      "4.50 A",
+      "3.00 A"
+    ],
+    "answer": "3.36 A",
+    "explanation": "Magnitude = √(3² + 1.5²)."
+  },
+  {
+    "question": "If V₁ = 15 + j30 V and V₂ = 24 + j0 V, what is the source voltage E?",
+    "options": [
+      "39 + j30 V",
+      "24 + j30 V",
+      "39 + j0 V",
+      "15 + j30 V"
+    ],
+    "answer": "39 + j30 V",
+    "explanation": "E = V₁ + V₂."
+  },{
+    "question": "The magnitude of the source voltage 39 + j30 V is approximately:",
+    "options": [
+      "49.2 V",
+      "39.0 V",
+      "30.0 V",
+      "69.0 V"
+    ],
+    "answer": "49.2 V",
+    "explanation": "Magnitude = √(39² + 30²)."
+  },
+  {
+    "question": "For the parallel combination of 8 Ω and -j16 Ω, the equivalent impedance is:",
+    "options": [
+      "2.56 - j1.28 Ω",
+      "8 - j16 Ω",
+      "4 + j8 Ω",
+      "16 - j8 Ω"
+    ],
+    "answer": "2.56 - j1.28 Ω",
+    "explanation": "Using the parallel impedance formula gives 2.56 - j1.28 Ω."
+  },
+  {
+    "question": "After obtaining the parallel equivalent impedance Ze, the total impedance is found by:",
+    "options": [
+      "Ze + R + jXL",
+      "Ze × (R + jXL)",
+      "Ze - (R + jXL)",
+      "R + jXL only"
+    ],
+    "answer": "Ze + R + jXL",
+    "explanation": "The equivalent impedance is in series with the remaining impedance."
+  },
+  {
+    "question": "In Thevenin's theorem, the Thevenin voltage VT is equal to:",
+    "options": [
+      "Open-circuit voltage",
+      "Short-circuit current",
+      "Load voltage",
+      "Source current"
+    ],
+    "answer": "Open-circuit voltage",
+    "explanation": "VT is the open-circuit voltage across the terminals."
+  },
+  {
+    "question": "The Thevenin impedance is calculated using:",
+    "options": [
+      "VT/Isc",
+      "Isc/VT",
+      "VT × Isc",
+      "VT + Isc"
+    ],
+    "answer": "VT/Isc",
+    "explanation": "ZT = VT/Isc."
+  },
+  {
+    "question": "The rectangular form of the open-circuit voltage obtained in the worked example is:",
+    "options": [
+      "20 + j10 V",
+      "22.4∠26.6° V",
+      "39 + j30 V",
+      "24 + j0 V"
+    ],
+    "answer": "20 + j10 V",
+    "explanation": "This is the calculated open-circuit voltage."
+  },
+  {
+    "question": "The polar form of 20 + j10 V is approximately:",
+    "options": [
+      "22.4∠26.6° V",
+      "20∠10° V",
+      "10∠20° V",
+      "22.4∠63.4° V"
+    ],
+    "answer": "22.4∠26.6° V",
+    "explanation": "Magnitude = 22.4 V and angle ≈ 26.6°."
+  },
+  {
+    "question": "From the simultaneous equations in the Thevenin example, I₂ is equal to:",
+    "options": [
+      "4I₁",
+      "I₁/4",
+      "2I₁",
+      "I₁"
+    ],
+    "answer": "4I₁",
+    "explanation": "The equations simplify to I₂ = 4I₁."
+  },
+  {
+    "question": "The calculated value of I₁ in the Thevenin example is approximately:",
+    "options": [
+      "0.169 + j1.01 A",
+      "1.01 + j0.169 A",
+      "3 + j1.5 A",
+      "4.10∠80.5° A"
+    ],
+    "answer": "0.169 + j1.01 A",
+    "explanation": "This value is obtained by solving the simultaneous equations."
+  },
+  {
+    "question": "The calculated short-circuit current Isc is approximately:",
+    "options": [
+      "4.10∠80.5° A",
+      "22.4∠26.6° A",
+      "3.36∠26.6° A",
+      "1.01∠80.5° A"
+    ],
+    "answer": "4.10∠80.5° A",
+    "explanation": "Isc is obtained from the solved mesh currents."
+  },
+  {
+    "question": "The calculated Thevenin impedance in rectangular form is:",
+    "options": [
+      "3.2 - j4.4 Ω",
+      "2.56 - j1.28 Ω",
+      "8 + j6 Ω",
+      "4 + j8 Ω"
+    ],
+    "answer": "3.2 - j4.4 Ω",
+    "explanation": "ZT = VT/Isc."
+  },
+  {
+    "question": "The polar form of 3.2 - j4.4 Ω is approximately:",
+    "options": [
+      "5.46∠-53.9° Ω",
+      "5.46∠53.9° Ω",
+      "3.2∠-4.4° Ω",
+      "4.4∠53.9° Ω"
+    ],
+    "answer": "5.46∠-53.9° Ω",
+    "explanation": "This is the polar equivalent of the rectangular impedance."
+  },
+  {
+    "question": "According to Kirchhoff's Current Law, the algebraic sum of currents at a node is:",
+    "options": [
+      "Zero",
+      "Equal to the source current",
+      "Equal to the load current",
+      "Always positive"
+    ],
+    "answer": "Zero",
+    "explanation": "This is the statement of KCL."
+  },
+  {"question": "According to Kirchhoff's Voltage Law, the algebraic sum of voltages around a closed loop is:",
+    "options": [
+      "Zero",
+      "Equal to the supply voltage",
+      "Equal to the resistor voltage",
+      "Infinite"
+    ],
+    "answer": "Zero",
+    "explanation": "This is the statement of KVL."
+  },
+  {
+    "question": "Which expression correctly represents the voltage divider rule for the voltage across R₂?",
+    "options": [
+      "V₂ = (R₂/(R₁ + R₂))V",
+      "V₂ = (R₁/(R₁ + R₂))V",
+      "V₂ = IR₁",
+      "V₂ = IR₂"
+    ],
+    "answer": "V₂ = (R₂/(R₁ + R₂))V",
+    "explanation": "This is the voltage divider formula."
+  }
+]
